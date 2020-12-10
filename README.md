@@ -1,10 +1,6 @@
 # Trello Clone
 
-![](netflix1.png)
-
-![](netflix2.png)
-
-![](netflix3.png)
+![](trello.png)
 
 # Getting Started with Create React App
 
